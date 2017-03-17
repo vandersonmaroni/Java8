@@ -26,7 +26,7 @@ public class Usuario {
     return dinheiro;
   }
 
-  public void tornarModerador(){
+  public void tornarModerador() {
     this.moderador = true;
   }
 
